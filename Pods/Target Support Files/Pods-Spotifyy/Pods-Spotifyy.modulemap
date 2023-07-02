@@ -1,0 +1,6 @@
+framework module Pods_Spotifyy {
+  umbrella header "Pods-Spotifyy-umbrella.h"
+
+  export *
+  module * { export * }
+}
